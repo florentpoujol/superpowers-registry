@@ -29,13 +29,13 @@
         },
         "florentpoujol": {
           "ftext": {
-            "version": "0.4.0",
-            "downloadURL": "https://github.com/florentpoujol/superpowers-game-ftext-plugin/archive/v0.4.0.zip",
+            "version": "0.4.1",
+            "downloadURL": "https://github.com/florentpoujol/superpowers-game-ftext-plugin/archive/v0.4.1.zip",
             "releaseNotesURL": "https://github.com/florentpoujol/superpowers-game-ftext-plugin/releases"
           },
           "fmouseinput": {
-            "version": "0.4.0",
-            "downloadURL": "https://github.com/florentpoujol/superpowers-game-fmouseinput-plugin/archive/v0.4.0.zip",
+            "version": "0.4.1",
+            "downloadURL": "https://github.com/florentpoujol/superpowers-game-fmouseinput-plugin/archive/v0.4.1.zip",
             "releaseNotesURL": "https://github.com/florentpoujol/superpowers-game-fmouseinput-plugin/releases"
           },
           "flang": {
